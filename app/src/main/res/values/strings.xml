@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrvaAplikacija</string>
+    <string name="input_second_number">Input Second Number:</string>
+    <string name="input_first_number">Input First Number:</string>
+    <string name="smaller">Smaller</string>
+    <string name="bigger">Bigger</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose">Choose</string>
+</resources>
